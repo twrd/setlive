@@ -13,7 +13,7 @@ class Song extends React.Component{
 			{this.props.children}
 		</div>
 		)
-	}   
+	}    
 	
 }
 
